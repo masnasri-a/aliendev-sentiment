@@ -15,7 +15,7 @@ pip install aliendev-sentiment
 Here's an example of how to use AlienDev Sentiment Analyzer:
 
 ```python
-from alien_dev_sentiment import SentimentAnalyzer
+from aliendev_sentiment import SentimentAnalyzer
 
 # Define the content dictionary
 content = {
